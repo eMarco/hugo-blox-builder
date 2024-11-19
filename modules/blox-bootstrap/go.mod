@@ -1,4 +1,4 @@
-module github.com/eMarco/hugo-blox-builder/modules/blox-bootstrap/v5
+module github.com/eMarco/hugo-blox-builder/modules/blox-bootstrap
 
 go 1.15
 
