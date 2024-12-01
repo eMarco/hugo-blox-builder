@@ -1,6 +1,6 @@
 module github.com/HugoBlox/hugo-blox-builder/test
 
-go 1.15
+go 1.23.3
 
 require github.com/eMarco/hugo-blox-builder/modules/blox-tailwind main
 

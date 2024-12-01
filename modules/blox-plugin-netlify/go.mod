@@ -1,3 +1,3 @@
 module github.com/eMarco/hugo-blox-builder/modules/blox-plugin-netlify
 
-go 1.15
+go 1.23.3
